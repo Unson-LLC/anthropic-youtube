@@ -1,2 +1,2 @@
 # anthropic-youtube
-Anthropic Youtube 文字起こし
+Anthropic Youtube を文字起こししたので自由に使ってください。
