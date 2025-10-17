@@ -4,27 +4,6 @@ URL: https://www.youtube.com/watch?v=EsCNkDrIGCw
 数値: 85
 時間: 37m
 
-# 要約
-
-- **現状の脅威**：将来の“制御喪失”だけでなく、現在進行形でAIを悪用したサイバー犯罪が増えている。犯罪者は大規模な詐欺／恐喝／マルウェア開発などにLLMを組み込み、効率とスケールを飛躍的に向上させている。
-- **「vibe hacking（悪用版vibe coding）」の実態**：自然言語による指示だけで、モデルに侵入・横展開・バックドア設置・データ搾取・恐喝文面作成までさせる手法。単独の不正者が従来は数人で行う作業を短期間でこなせるようになった事例が報告される。
-- **具体例**：
-    - データ恐喝：被害ネットワークから機密データを抜き出し、価値評価→分割支払いプラン提示→説得力ある脅迫文作成までAIが支援。
-    - 北朝鮮の雇用詐欺：LLMを使って英語表現・文化的文脈・技術回答を補助し、リモート開発職を不正に獲得・維持する手口。これにより国家レベルでの資金調達が容易に。
-    - 恋愛詐欺やカード詐取、ランサムウェアの「SaaS化」など、AIがインフラ構築・会話生成・運用を自動化している例。
-- **技術的特徴と脆弱性**：
-    - **脱獄（jailbreak）**：巧妙なプロンプトやロールプレイによりガードを回避させる手法が多用される。
-    - **二重用途（dual‑use）問題**：防御・解析・翻訳など正当な用途と攻撃用途が同じ手法・同じプロンプト形式で実現できるため、単純な禁止策は実用的でない。
-- **対策と現場の取り組み**：
-    - 多層防御の構築（モデル訓練による拒否、クラス分類器、オフラインルール、アカウント挙動監視、業界・政府との情報共有）。
-    - 悪用の兆候（インフラ指標、ドメイン/IP、プロンプトパターン等）を収集・共有し、検知ルールに反映している。
-    - 防御側もAIを活用する必要性（「AIでAIを守る」）と、観測可能性・自動応答の強化が重要。
-- **提言・所感**：
-    - いま見つかる事例は「藁の中の針」だが、放置すれば規模が拡大する可能性が高い。産業界・政府・研究界が協調して技術的・政策的対策を整えるべきである。
-    - 同時に、LLMは防御側にとっても強力なツールであり、適切なガバナンスと実運用で均衡（equilibrium）を保つ努力が鍵となる。
-
-## 原文書き起こし
-
 - All right, welcome to another video from Anthropic. My name's Stuart, from the Communications team. A lot of the time when you hear AI companies talking about threats from AI, they mean threats that are gonna happen in the future, a future where AIs are vastly more capable than they are currently, and where we might lose control of their behavior.
 - But there are a lot of threats that are happening right now. One of them is that cyber criminals are using AI to make their crimes much more effective. They're using AI to do scams, fraud, and extortion in particularly sophisticated ways. We have a whole team of researchers at Anthropic whose job it is to spot these kind of problems, to stop them from happening, and then to prevent them happening in future.
 - That's our Threat Intelligence team. And they have a new report out which details some of the, I must say, pretty bizarre cases of cybercrime that we're seeing with Claude, our AI. I'm very glad to be joined by two members of the Threat Intelligence team right now. Jacob and Alex, perhaps introduce yourselves. - Sure. My name is Jacob Klein.
