@@ -398,3 +398,39 @@ Claude Developer Platformチームがエージェント開発の未来を議論�
 ### 098-Claude Coded Sonnet 4 5、Claude Code 2 0 など。.md
 Claude Codedの最新アップデート：Sonnet 4.5のコーディング性能向上、VS Code拡張機能、チェックポイント機能、コンテキスト編集とメモリツール
 [📁 ファイルを表示](https://github.com/Unson-LLC/anthropic-youtube/blob/main/Anthropic_Youtube_transcriptions/098-Claude%20Coded%20Sonnet%204%205%E3%80%81Claude%20Code%202%200%20%E3%81%AA%E3%81%A9%E3%80%82.md)
+
+### 099-Building with MCP and the Claude API.md.md
+MCPとClaude APIの活用：開発者向けの実装ガイド、ツール設計のベストプラクティス、コンテキスト管理、マルチエージェントシステムの構築方法
+[📁 ファイルを表示](https://github.com/Unson-LLC/anthropic-youtube/blob/main/Anthropic_Youtube_transcriptions/099-Building%20with%20MCP%20and%20the%20Claude%20API.md.md)
+
+### 100-Introducing Claude Haiku 4.5.md
+（映像と音楽のみ）
+[📁 ファイルを表示](https://github.com/Unson-LLC/anthropic-youtube/blob/main/Anthropic_Youtube_transcriptions/100-Introducing%20Claude%20Haiku%204.5.md)
+
+### 101-Connect Claude to Microsoft 365.md
+（映像と音楽のみ）
+[📁 ファイルを表示](https://github.com/Unson-LLC/anthropic-youtube/blob/main/Anthropic_Youtube_transcriptions/101-Connect%20Claude%20to%20Microsoft%20365.md)
+
+### 102-Claude Skills: Specialized capabilitie.md
+（映像と音楽のみ）
+[📁 ファイルを表示](https://github.com/Unson-LLC/anthropic-youtube/blob/main/Anthropic_Youtube_transcriptions/102-Claude%20Skills%3A%20Specialized%20capabilitie.md)
+
+### 103-Creating custom Skills with Claude.md
+（映像と音楽のみ）
+[📁 ファイルを表示](https://github.com/Unson-LLC/anthropic-youtube/blob/main/Anthropic_Youtube_transcriptions/103-Creating%20custom%20Skills%20with%20Claude.md)
+
+### 104-Building more effective AI agents.md
+エージェント構築のベストプラクティス：Claude Code SDK、マルチエージェントシステム、サブエージェント活用、ツール設計の最適化手法
+[📁 ファイルを表示](https://github.com/Unson-LLC/anthropic-youtube/blob/main/Anthropic_Youtube_transcriptions/104-Building%20more%20effective%20AI%20agents.md)
+
+### 105-How AbbVie accelerates drug discovery .md
+AbbVieの製薬AI戦略：創薬から臨床開発まで全バリューチェーンでのAI活用、GenAIsysとGAIAツールによる業務効率化の実例
+[📁 ファイルを表示](https://github.com/Unson-LLC/anthropic-youtube/blob/main/Anthropic_Youtube_transcriptions/105-How%20AbbVie%20accelerates%20drug%20discovery%20.md)
+
+### 106-Scaling enterprise AI: Fireside chat w.md
+Eli LillyとDario AmodeiのAI対談：エンタープライズAI導入戦略、Claude Skillsと専門化モデル、長期的な技術進化への備え
+[📁 ファイルを表示](https://github.com/Unson-LLC/anthropic-youtube/blob/main/Anthropic_Youtube_transcriptions/106-Scaling%20enterprise%20AI%3A%20Fireside%20chat%20w.md)
+
+### 107-Introducing Claude for Life Sciences.md
+ライフサイエンス向けClaude：研究プロトコル最適化、バイオインフォマティクス解析、文献レビュー、実験室自動化への応用と将来展望
+[📁 ファイルを表示](https://github.com/Unson-LLC/anthropic-youtube/blob/main/Anthropic_Youtube_transcriptions/107-Introducing%20Claude%20for%20Life%20Sciences.md)
